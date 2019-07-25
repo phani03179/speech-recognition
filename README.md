@@ -9,3 +9,5 @@ Multi language export
 
 
 Autofill command
+
+Word replacement 
