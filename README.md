@@ -11,3 +11,5 @@ Multi language export
 Autofill command
 
 Word replacement 
+
+Receiving signature sounds
