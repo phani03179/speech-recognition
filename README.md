@@ -15,3 +15,5 @@ Word replacement
 Receiving signature sounds
 
 Ambient speech signal processing 
+
+State of speaker
