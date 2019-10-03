@@ -17,3 +17,5 @@ Receiving signature sounds
 Ambient speech signal processing 
 
 State of speaker
+
+Language proverbs for latent truth
