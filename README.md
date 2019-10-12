@@ -19,3 +19,5 @@ Ambient speech signal processing
 State of speaker
 
 Language proverbs for latent truth
+
+Dual stream recognition 
