@@ -21,3 +21,5 @@ State of speaker
 Language proverbs for latent truth
 
 Dual stream recognition 
+
+Changes in speech incl yawn
