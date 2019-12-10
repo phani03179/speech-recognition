@@ -25,3 +25,5 @@ Dual stream recognition
 Changes in speech incl yawn
 
 Latent emotion of speech
+
+voice improvement 
