@@ -33,3 +33,5 @@ In car navigation response
 voice nails
 
 Reverberation recognition 
+
+Remembering conversations 
