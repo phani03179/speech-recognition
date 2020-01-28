@@ -35,3 +35,5 @@ voice nails
 Reverberation recognition 
 
 Remembering conversations 
+
+Understanding etiquette 
