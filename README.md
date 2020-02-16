@@ -37,3 +37,5 @@ Reverberation recognition
 Remembering conversations 
 
 Understanding etiquette 
+
+Speech sound retrieval & modification 
