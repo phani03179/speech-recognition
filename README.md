@@ -43,3 +43,5 @@ Speech sound retrieval & modification
 Pitch tone and speed chars
 
 Comic sequence sounds
+
+Subtle speech recognition 
