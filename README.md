@@ -49,3 +49,5 @@ Subtle speech recognition
 Cyematic conversion 
 
 Proactive utterance addition
+
+Robotic voice understanding 
