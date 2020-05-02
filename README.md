@@ -57,3 +57,5 @@ Instrumental human sound response understanding
 Error correction of speech reply
 
 Speech section correction
+
+Ad recognizition
