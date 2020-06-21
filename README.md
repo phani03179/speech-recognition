@@ -65,3 +65,5 @@ Voice masking
 Age detection 
 
 Discourse search
+
+Multi language command understanding 
