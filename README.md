@@ -69,3 +69,5 @@ Discourse search
 Multi language command understanding 
 
 Financial terms 
+
+Language dialects
