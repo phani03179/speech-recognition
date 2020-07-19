@@ -71,3 +71,5 @@ Multi language command understanding
 Financial terms 
 
 Language dialects
+
+Cinema understanding 
