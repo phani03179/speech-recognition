@@ -73,3 +73,5 @@ Financial terms
 Language dialects
 
 Cinema understanding 
+
+Multivoice assistant understanding 
