@@ -75,3 +75,5 @@ Language dialects
 Cinema understanding 
 
 Multivoice assistant understanding 
+
+Speech Task division
