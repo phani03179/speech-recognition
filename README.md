@@ -81,3 +81,5 @@ Speech Task division
 Prosody understanding 
 
 Ondevice recognition
+
+Speech signal multi distance understanding 
