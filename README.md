@@ -85,3 +85,5 @@ Ondevice recognition
 Speech signal multi distance understanding 
 
 Multi language model
+
+Surround speech recognition 
