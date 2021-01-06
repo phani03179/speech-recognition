@@ -87,3 +87,5 @@ Speech signal multi distance understanding
 Multi language model
 
 Surround speech recognition 
+
+Adaptive speech extraction 
