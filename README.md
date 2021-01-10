@@ -89,3 +89,5 @@ Multi language model
 Surround speech recognition 
 
 Adaptive speech extraction 
+
+Intelligent wake up 
