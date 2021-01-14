@@ -91,3 +91,5 @@ Surround speech recognition
 Adaptive speech extraction 
 
 Intelligent wake up 
+
+Gpt3 training optimization 
