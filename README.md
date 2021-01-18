@@ -34,6 +34,8 @@ voice nails
 
 Reverberation recognition 
 
+Positional & pain recognition 
+
 Remembering conversations 
 
 Understanding etiquette 
@@ -93,3 +95,5 @@ Adaptive speech extraction
 Intelligent wake up 
 
 Gpt3 training optimization 
+
+
