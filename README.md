@@ -34,6 +34,8 @@ voice nails
 
 Reverberation recognition 
 
+Non human Language recognition 
+
 Positional & pain recognition 
 
 Remembering conversations 
