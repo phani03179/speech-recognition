@@ -101,3 +101,5 @@ Gpt3 training optimization
 Sentence structure dilation 
 
 Song lyrics identification 
+
+Multi location command understanding 
