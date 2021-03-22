@@ -103,3 +103,5 @@ Sentence structure dilation
 Song lyrics identification 
 
 Multi location command understanding 
+
+Low volume detection along with direction
