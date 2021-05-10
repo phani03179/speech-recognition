@@ -34,6 +34,8 @@ voice nails
 
 Reverberation recognition 
 
+Neural noise reduction
+
 Removing fan noise in speech signal 
 
 Non human Language recognition 
